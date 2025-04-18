@@ -44,14 +44,12 @@ npm start
 ## 📂 ساختار پروژه  
 ```plaintext  
 react-login/  
-├── src/   
-│   ├── components/  
-│   │   ├── LoginForm.js  
-│   │   └── InputField.js  
-│   ├── App.js  
-│   └── index.js  
+├── src/ 
+│   ├── App.jsx  کامپوننت اصلی
+│   └── index.css استایل ها
 ├── public/  
-│   └── index.html  
+│   └── logo.png لوگو سایت
+|   index.html 
 └── package.json  
 ```  
 
